@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: 'Roboto Slab', serif;
+	padding: 20px;
+	background-image: url(../img/backgroundimg2.png);
+}
+
+img {
+	width: 400px;
+	padding: 20px;
+}
